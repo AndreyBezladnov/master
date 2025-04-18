@@ -1,2 +1,2 @@
-asd
+Line from user2
 Line from user1
